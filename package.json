@@ -1,0 +1,21 @@
+{
+  "name": "playwright-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Razz99/playwright-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Razz99/playwright-automation/issues"
+  },
+  "homepage": "https://github.com/Razz99/playwright-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.0"
+  }
+}
